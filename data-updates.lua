@@ -32,7 +32,7 @@ then
       prerequisites = {
         "agricultural-science-pack",
       },
-      icon = "__Rocs-Hardcore-Delayed-Tech-Tree__/graphics/technology/active-provider-chest.png",
+      icon = "__Rocs-Hardcore-Delayed-Tech-Tree-Extended__/graphics/technology/active-provider-chest.png",
       icon_size = 96,
       unit = {
         count = 1000,

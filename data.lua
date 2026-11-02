@@ -3,7 +3,7 @@ if settings.startup["rocs-hardcore-z-infinite-tech-needs-cryogenic"].value then
     {
       type = "technology",
       name = "infinite-research",
-      icon = "__Rocs-Hardcore-Delayed-Tech-Tree__/graphics/technology/material-crystal-red-gem.png",
+      icon = "__Rocs-Hardcore-Delayed-Tech-Tree-Extended__/graphics/technology/material-crystal-red-gem.png",
       icon_size = 256,
       prerequisites = {
         "cryogenic-science-pack",
