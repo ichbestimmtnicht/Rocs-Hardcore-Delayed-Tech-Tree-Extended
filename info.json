@@ -1,0 +1,15 @@
+{
+  "name": "Rocs-Hardcore-Delayed-Tech-Tree-Extended",
+  "version": "0.0.0",
+  "factorio_version": "2.1",
+  "title": "Hard Tech Tree",
+  "author": "thesixthroc,ichbestimmtnicht",
+  "contact": "Discord: https://discord.gg/VuVhYUBbWE",
+  "description": "Pushes back a small number of technologies in the Space Age tech tree.\n\nPart of the modpack Space Age: Hardcore Mode.",
+  "homepage": "https://foundrygg.com",
+  "dependencies": [
+    "base >= 2.0.19",
+    "space-age >= 2.0.19"
+  ],
+  "space_travel_required": true
+}
